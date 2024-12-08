@@ -1,0 +1,4 @@
+torch
+flask
+transformers
+# Add any other dependencies your model requires

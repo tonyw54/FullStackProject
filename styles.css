@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+.container {
+    text-align: center;
+    width: 80%; /* Change this to a percentage or a larger fixed value */
+    max-width: 1200px; /* Optional: Set a maximum width */
+}
+form {
+    display: inline-block;
+}
+#text {
+    width: 100%; /* Ensure the text box is 20% of the container width */
+    height: 3em;
+}
+.button {
+    padding-top: 25px;
+}
